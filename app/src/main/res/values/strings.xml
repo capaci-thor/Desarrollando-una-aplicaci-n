@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Formulario</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descipcon">Descripción de contacto</string>
 </resources>
